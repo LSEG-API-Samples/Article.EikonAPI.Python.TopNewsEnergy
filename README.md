@@ -1,4 +1,4 @@
-# Getting Top News Energy Headlines and stories using Eikon Data API (Python)
+# Getting Top News Energy Headlines and Stories using Eikon Data API (Python)
 This article demonstrates how to retrieve Top News Energy headlines and stories using Python code with Eikon Data API
 
 ## <a id="TopNewsEnergy"></a>What is Top News Energy?
