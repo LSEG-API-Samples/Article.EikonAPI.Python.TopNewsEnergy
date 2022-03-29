@@ -21,3 +21,9 @@ You may download requirements.txt from this repository then use the command `pip
 -  eikon == 1.1.14
 -  bs4 == 0.0.1
 -  IPython == 7.27.0
+
+## <a id="Reference"></a>Reference
+- [Developer Community](https://developers.refinitiv.com/en)
+- [Eikon Data API page](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api)
+- [Top News page](https://www.refinitiv.com/en/financial-data/financial-news-coverage/political-news-feeds-analysis/reuters-top-news)
+- [Eikon Data API Q&A page](https://community.developers.refinitiv.com/spaces/92/index.html)
